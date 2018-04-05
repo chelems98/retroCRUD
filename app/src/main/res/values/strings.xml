@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">prueba3</string>
+    <string name="hintName">Nombre</string>
+    <string name="hintDesc">Descripcion</string>
+    <string name="hintPrice">Precio</string>
+    <string name="textButton">Agregar</string>
+    <string name="hintId">ID</string>
+    <string name="buttonDelete">Borrar</string>
+    <string name="buttonUpdate">Actualizar</string>
+    <string name="buttonSelct">Ver Todos</string>
+    <string name="back">Regresar</string>
+</resources>
